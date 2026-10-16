@@ -1,6 +1,6 @@
 # Emma's Room
 
-**Play the game here:**
+**Play the game here:** [Here](https://jsabat1.github.io/emmas-room/)
 
 ## Overview
 Emma's Room is an interactive fiction and environmental storytelling puzzle. Instead of relying on traditional exposition or dialogue, players uncover the mystery of a missing highschool student by inspecting the objects left behind in her dorm room. The narrative pieces together a story of academic burnout and a sudden, desperate escape.
