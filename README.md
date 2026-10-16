@@ -14,3 +14,5 @@ Emma's Room is an interactive fiction and environmental storytelling puzzle. Ins
 *   Twine 2
 *   Harlowe 3.3 Story Format
 *   Custom CSS
+
+This game and its original story are licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
